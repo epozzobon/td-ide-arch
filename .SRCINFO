@@ -1,0 +1,14 @@
+pkgbase = td-ide
+	pkgdesc = Anlogic TD Tang Dynasty FPGA IDE, for the Sipeed Tang Primer development board
+	pkgver = 4.4.433
+	pkgrel = 1
+	url = http://www.anlogic.com/down.aspx?TypeId=23&fid=t14:23:14
+	arch = x86_64
+	license = unknown
+	makedepends = unrar
+	noextract = TD1903_linux.rar
+	source = http://dl.sipeed.com/TANG/Primer/IDE/TD1903_linux.rar
+	md5sums = 3d6ba2fa4e512225a2369f9dcc7ec1d9
+
+pkgname = td-ide
+
