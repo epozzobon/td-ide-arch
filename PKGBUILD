@@ -1,6 +1,6 @@
-# Maintainer: Your Name <enricopozzobon@gmail.com>
+# Maintainer: Enrico Pozzobon <enricopozzobon@gmail.com>
 pkgname=td-ide
-pkgver=4.4.433
+pkgver=4.5.12562
 pkgrel=1
 epoch=
 pkgdesc="Anlogic TD Tang Dynasty FPGA IDE, for the Sipeed Tang Primer development board"
@@ -19,11 +19,11 @@ backup=()
 options=()
 install=
 changelog=
-_sourcearchive="TD1903_linux.rar"
-_sourcedir="rel190228_r4.4.433_RHEL"
-source=("http://dl.sipeed.com/TANG/Primer/IDE/$_sourcearchive")
+_sourcearchive="TD_RELEASE_MAY2019_r4.5.12562_RHEL.rar"
+_sourcedir="TD_RELEASE_MAY2019_r4.5.12562"
+source=("http://dl.sipeed.com/TANG/Premier/IDE/$_sourcearchive")
 noextract=($_sourcearchive)
-md5sums=('3d6ba2fa4e512225a2369f9dcc7ec1d9')
+md5sums=('07ca66f87345a4087a8ed66e509e009c')
 validpgpkeys=()
 _installdir="/opt/td-ide"
 
