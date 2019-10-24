@@ -1,4 +1,4 @@
-pkgbase = td-ide
+pkgbase = tang-dynasty-ide
 	pkgdesc = Anlogic TD Tang Dynasty FPGA IDE, for the Sipeed Tang Primer development board
 	pkgver = 4.5.12562
 	pkgrel = 1
@@ -10,5 +10,5 @@ pkgbase = td-ide
 	source = http://dl.sipeed.com/TANG/Premier/IDE/TD_RELEASE_MAY2019_r4.5.12562_RHEL.rar
 	md5sums = 07ca66f87345a4087a8ed66e509e009c
 
-pkgname = td-ide
+pkgname = tang-dynasty-ide
 
